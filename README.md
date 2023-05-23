@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravikiran8844](https://github.com/ravikiran8844)
 
-- 📝 I regularly write articles on [https://ravikiran.net](https://ravikiran.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
